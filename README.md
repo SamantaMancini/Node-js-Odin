@@ -28,6 +28,10 @@
 
 install node js
 
+### :run: locally:
+command:
+node index.js
+
 
 
 ## :gem: Acknowledgements
