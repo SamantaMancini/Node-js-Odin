@@ -28,8 +28,7 @@
 
 install node js
 
-### :running: locally:
-command:
+### :running: command:
 node index.js
 
 
